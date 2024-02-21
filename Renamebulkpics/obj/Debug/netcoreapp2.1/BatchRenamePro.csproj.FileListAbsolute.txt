@@ -1,0 +1,10 @@
+F:\01_MaxProjects\Rename multiple pics\Renamebulkpics\Renamebulkpics\bin\Debug\netcoreapp2.1\BatchRenamePro.deps.json
+F:\01_MaxProjects\Rename multiple pics\Renamebulkpics\Renamebulkpics\bin\Debug\netcoreapp2.1\BatchRenamePro.runtimeconfig.json
+F:\01_MaxProjects\Rename multiple pics\Renamebulkpics\Renamebulkpics\bin\Debug\netcoreapp2.1\BatchRenamePro.runtimeconfig.dev.json
+F:\01_MaxProjects\Rename multiple pics\Renamebulkpics\Renamebulkpics\bin\Debug\netcoreapp2.1\BatchRenamePro.dll
+F:\01_MaxProjects\Rename multiple pics\Renamebulkpics\Renamebulkpics\bin\Debug\netcoreapp2.1\BatchRenamePro.pdb
+F:\01_MaxProjects\Rename multiple pics\Renamebulkpics\Renamebulkpics\obj\Debug\netcoreapp2.1\BatchRenamePro.csproj.CoreCompileInputs.cache
+F:\01_MaxProjects\Rename multiple pics\Renamebulkpics\Renamebulkpics\obj\Debug\netcoreapp2.1\BatchRenamePro.AssemblyInfoInputs.cache
+F:\01_MaxProjects\Rename multiple pics\Renamebulkpics\Renamebulkpics\obj\Debug\netcoreapp2.1\BatchRenamePro.AssemblyInfo.cs
+F:\01_MaxProjects\Rename multiple pics\Renamebulkpics\Renamebulkpics\obj\Debug\netcoreapp2.1\BatchRenamePro.dll
+F:\01_MaxProjects\Rename multiple pics\Renamebulkpics\Renamebulkpics\obj\Debug\netcoreapp2.1\BatchRenamePro.pdb
